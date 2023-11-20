@@ -3,19 +3,57 @@ body {
 
 }
 
-
-
-p{ text-align: center;
-    color: blackcor;
-}
-
-strong{
+#titulo1 {
+text-align: center;
+font-size: 50px;
 color:black
-
 }
 
+.p1 {
+text-align: justify;
+font-size: 20px;
+color: black;
+}
 
-#banner {
-    display: block;
-    margin: 0 auto;
+.p2 {
+text-align: justify;
+font-size: 20px;
+color:black
+}
+
+#img1{
+display: block;
+margin:0 auto;
+}
+
+#titulo2 {
+text-align: center;
+font-size: 30px;
+color:black
+}
+
+.ul{
+display: inline-block;
+vertical-align: top;
+width: 20%;
+margin-right: 15%;
+font-size: 20px;
+}
+
+#img2{
+width: 50%;
+}
+
+header{
+text-align: center;
+font-size: 50px;
+color: black;
+}
+
+.principal{
+    background; red;
+}
+
+beneficios{
+    background: red;
 }
